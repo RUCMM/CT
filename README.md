@@ -1,5 +1,5 @@
 
-# Co-Teaching for Unsupervised Domain Adaptation and Expansion
+# Co-Teaching for Domain-Expanded Visual Recognition
 
 Co-Teaching (CT)is a generic method for unsupervised domain adaptation and expansion. CT consists of knowledge distillation based CT (kdCT) and mixup based CT (miCT). Specifically, kdCT transfers knowledge from a leader-teacher network and an assistant-teacher network to a student network, to let the student better resolve cross-domain visual ambiguity, while miCT further enhances the generalization ability of the student. CT works for both image classification and image semantic segmentation. 
 
